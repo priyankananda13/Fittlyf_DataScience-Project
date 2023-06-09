@@ -1,4 +1,4 @@
-# fittlyf_DataScience-Project
+# Fittlyf_DataScience-Project
 
 Part 0: Reading the data <br>
 Part 1: Data cleaning <br>
